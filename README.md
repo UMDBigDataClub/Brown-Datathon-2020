@@ -9,10 +9,11 @@ Table DP03: https://data.census.gov/cedsci/table?q=dp03&hidePreview=false&tid=AC
 Table DP04: https://data.census.gov/cedsci/table?q=dp04&tid=ACSDP1Y2018.DP04
 
 Zillow Research - https://www.zillow.com/research/data/
+
 Includes the following:
-Median Sale Price (Raw)
-Median Price Cut (%)
-Foreclosure Resales (%)
-Monthly For-Sale Inventory (Raw)
-New Monthly For-Sale Inventory (Raw)
-Median Daily For-Sale Inventory (Raw)
+* Median Sale Price (Raw)
+* Median Price Cut (%)
+* Foreclosure Resales (%)
+* Monthly For-Sale Inventory (Raw)
+* New Monthly For-Sale Inventory (Raw)
+* Median Daily For-Sale Inventory (Raw)
